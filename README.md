@@ -1,6 +1,6 @@
-# CLA
+# Contributor License Agreement (CLA)
 
-When contributing to CTF Pilot repositories, you are required to sign a CLA.  
+When contributing to CTF Pilot repositories, you are required to sign a Contributor License Agreement (CLA).  
 This is done when creating a Pull Request and only needs to be done once.
 
 The CLA gives CTF Pilot the permission to use your contribution under its license(s).
