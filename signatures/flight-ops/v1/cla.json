@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "The0mikkel",
+      "id": 28625667,
+      "comment_id": 7049403945,
+      "created_at": "2026-11-20T20:04:43Z",
+      "repoId": 1465767792,
+      "pullRequestNo": 2
+    }
+  ]
 }
